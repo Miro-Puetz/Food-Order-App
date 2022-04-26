@@ -1,0 +1,10 @@
+.card {
+  background-color: #f8f1eb;
+  width: 70%;
+  margin: 3rem auto 0 auto;
+}
+
+.card ul {
+  height: 600px;
+  list-style: none;
+}

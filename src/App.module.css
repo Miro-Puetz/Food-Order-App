@@ -1,0 +1,22 @@
+.app {
+  text-align: center;
+}
+
+.app .background-image {
+  background-image: url("./assets/food-background.jpg");
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.intro {
+  background-color: #f8f1eb;
+  margin: -2rem auto 0 auto;
+  width: 50%;
+}
+
+.intro h1 {
+  color: #cb997e;
+}
+.intro p {
+}
