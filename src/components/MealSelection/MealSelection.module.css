@@ -5,6 +5,7 @@
 }
 
 .card ul {
+  padding: 0;
   height: 600px;
   list-style: none;
 }
